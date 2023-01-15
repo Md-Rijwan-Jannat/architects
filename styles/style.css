@@ -46,8 +46,6 @@ body {
   display: flex;
   flex-direction: column;
   align-items: center;
-  width: 100%;
-}
 .banner-details {
   text-align: center;
 }
